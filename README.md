@@ -1,7 +1,7 @@
 # Case-study
 
 Please download the excel file data2 that inlcudes the raw data.
-Then run ipynb file "Customer_segmentation.ipynb" which is the code for Part 2 of the analysis.
+Then run ipynb file "Customer_segmentation.ipynb" that is the code for Part II of the assignment.
 
 Citation: 
 https://www.datacamp.com/community/tutorials/introduction-customer-segmentation-python
